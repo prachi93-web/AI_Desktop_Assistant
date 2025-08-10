@@ -32,7 +32,9 @@ This assistant is designed to make your daily computer tasks faster and more fun
 
 
 <img width="687" height="877" alt="Screenshot 2025-08-10 205902" src="https://github.com/user-attachments/assets/da9429b2-49f6-4aaa-8b0a-861ef4395fcc" />
-## 🚀 Getting Started
+
+
+### 🚀 Getting Started
 
 ---
 
