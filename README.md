@@ -1,8 +1,6 @@
 
 # 🤖 AI Desktop Assistant – Nexa
 
-<img width="687" height="877" alt="Screenshot 2025-08-10 205902" src="https://github.com/user-attachments/assets/da9429b2-49f6-4aaa-8b0a-861ef4395fcc" />
-
 
 ## 📌 Overview
 **Nexa** is a voice and text-based AI desktop assistant built with Python.  
@@ -30,7 +28,13 @@ This assistant is designed to make your daily computer tasks faster and more fun
 
 ---
 
+### 📸 Screenshot
+
+
+<img width="687" height="877" alt="Screenshot 2025-08-10 205902" src="https://github.com/user-attachments/assets/da9429b2-49f6-4aaa-8b0a-861ef4395fcc" />
 ## 🚀 Getting Started
+
+---
 
 ### 1️⃣ Clone the Repository
 ```bash
@@ -47,7 +51,7 @@ pip install -r requirements.txt
 ### 3️⃣ Run the Assistant
 
 ```bash
-python main.py
+python GUI.py
 ```
 
 ---
@@ -63,4 +67,3 @@ You can say or type:
 * `"What is your favorite color?"` → Nexa shares her favorite
 
 ---
-
